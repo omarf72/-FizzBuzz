@@ -88,5 +88,5 @@ nb-configuration.xml
 ## Miscellaneous
 ##############################
 *.log
-.src/
+src/
 .ALL_OF_MY_PASSWORDS.txt
